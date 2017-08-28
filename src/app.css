@@ -1,0 +1,15 @@
+body{
+    background-color: #2F3A49;
+    text-align: center;
+    /* min-height: 100vh; */
+    line-height: 100vh
+}
+
+.header {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-family:sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    /* font-size: 2rem */
+}
